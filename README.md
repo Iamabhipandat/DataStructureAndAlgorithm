@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0268-missing-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0441-arranging-coins) |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
