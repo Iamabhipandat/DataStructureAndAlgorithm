@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,9 +78,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
@@ -89,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1095-find-in-mountain-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
