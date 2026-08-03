@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0441-arranging-coins) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1406-stone-game-iii) |
 ## Two Pointers
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
