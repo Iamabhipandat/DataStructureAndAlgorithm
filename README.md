@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0283-move-zeroes) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0240-search-a-2d-matrix-ii) |
 ## Game Theory
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -182,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0021-merge-two-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
