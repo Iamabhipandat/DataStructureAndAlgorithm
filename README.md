@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0387-first-unique-character-in-a-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Counting
 |  |
 | ------- |
@@ -224,4 +225,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0062-unique-paths) |
+## Stack
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
