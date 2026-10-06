@@ -4,24 +4,25 @@ class Solution {
         int n = nums.length;
         int[] ans = new int[n];
 
-        int left = 0;
-        int right = n - 1;
-        int index = n - 1;
+        int i = 0;
+        int j = n - 1;
+        int idx = n - 1;
 
-        while (left <= right) {
-            int leftSquare = nums[left] * nums[left];
-            int rightSquare = nums[right] * nums[right];
+        while (i <= j) {
+            int left  = nums[i]*nums[i];
+            int right= nums[j]*nums[j];
 
-            if (leftSquare > rightSquare) {
-                ans[index] = leftSquare;
-                left++;
-            } else {
-                ans[index] = rightSquare;
-                right--;
+
+            if(left<right){
+                ans[idx]= right;
+                j--;
+            }else{
+                ans[idx]= left;
+                i++;
             }
-
-            index--;
+            idx--;
         }
+    
 
         return ans;
     }
