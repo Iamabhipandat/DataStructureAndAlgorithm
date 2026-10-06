@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2784-check-if-array-is-good](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2784-check-if-array-is-good) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3225-maximum-score-from-grid-operations) |
 | [3731-find-missing-elements](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3731-find-missing-elements) |
 ## Math
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0387-first-unique-character-in-a-string) |
+| [2784-check-if-array-is-good](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2784-check-if-array-is-good) |
 | [3731-find-missing-elements](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0977-squares-of-a-sorted-array) |
+| [2784-check-if-array-is-good](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2784-check-if-array-is-good) |
 | [3731-find-missing-elements](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3731-find-missing-elements) |
 ## String
 |  |
