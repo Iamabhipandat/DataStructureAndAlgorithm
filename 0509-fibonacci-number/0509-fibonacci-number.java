@@ -1,7 +1,16 @@
 class Solution {
-    public int fib(int n) {
+static int[] dp;
+    public int fibboo(int n) {
         if(n<2)return n;
-        return fib(n-1)+fib(n-2);
+        if(dp[n]!=0)return dp[n];
+        int ans = fibboo(n-1)+fibboo(n-2);
+        dp[n] = ans;
+        return ans;
+        
+    }
+    public int fib(int n) {
+        dp = new int[n+1];
+        return fibboo(n);
         
     }
 }
