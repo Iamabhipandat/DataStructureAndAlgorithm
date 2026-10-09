@@ -1,36 +1,35 @@
 
+import java.util.Stack;
+
 class Solution {
     public int minInsertions(String s) {
-        int open = 0;
+        Stack<Character> stack = new Stack<>();
         int ans = 0;
 
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
 
             if (ch == '(') {
-                open++;
-
-                // If the previous ')' was unmatched,
-                // insert one ')' to complete its pair.
-                if (i > 0 && s.charAt(i - 1) == ')') {
-                    // Handled by the closing-parenthesis logic below.
-                }
+                stack.push(ch);
             } else {
+                // Check whether the next character is ')'
                 if (i + 1 < s.length() && s.charAt(i + 1) == ')') {
-                    i++;
+                    i++; // Consume the second ')'
                 } else {
-                    ans++;
+                    ans++; // Insert the missing ')'
                 }
 
-                if (open > 0) {
-                    open--;
+                if (!stack.isEmpty()) {
+                    stack.pop();
                 } else {
-                    ans++;
+                    ans++; // Insert the missing '('
                 }
             }
         }
 
-        return ans + 2 * open;
+        // Every remaining '(' needs two ')'
+        ans += stack.size() * 2;
+
+        return ans;
     }
 }
-
