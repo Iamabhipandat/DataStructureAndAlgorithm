@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2784-check-if-array-is-good) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3225-maximum-score-from-grid-operations) |
 | [3731-find-missing-elements](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3731-find-missing-elements) |
 ## Math
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [2784-check-if-array-is-good](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2784-check-if-array-is-good) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bracket Sequences
 |  |
 | ------- |
