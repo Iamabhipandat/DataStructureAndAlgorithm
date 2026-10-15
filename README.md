@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3225-maximum-score-from-grid-operations) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3731-find-missing-elements) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [2784-check-if-array-is-good](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3731-find-missing-elements](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -275,4 +277,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2333-minimum-sum-of-squared-difference) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
