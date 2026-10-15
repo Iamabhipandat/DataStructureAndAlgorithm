@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0867-transpose-matrix) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0560-subarray-sum-equals-k) |
 | [2784-check-if-array-is-good](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0560-subarray-sum-equals-k) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3225-maximum-score-from-grid-operations) |
 ## Union-Find
 |  |
