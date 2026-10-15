@@ -7,7 +7,7 @@ class Solution {
             merge[i] = nums1[i];
         }
         for(int j = 0;j<m;j++){
-            merge[n+j]= nums2[j];
+            merge[n+j] = nums2[j];
         }
         Arrays.sort(merge);
         int len = merge.length;
@@ -15,10 +15,8 @@ class Solution {
 
         if(len%2==1){
             return merge[mid];
-        
         }else{
-            return (merge[mid-1]+(double)merge[mid])/2.0;
+            return ((merge[mid-1]+merge[mid])/2.0);
         }
-        
     }
 }
