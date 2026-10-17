@@ -7,13 +7,14 @@ class Solution {
             char right = s.charAt(j);
 
             if(!Character.isLetterOrDigit(left)){
-                i++;
-                continue;
+                   i++;
+                   continue;
             }
              if(!Character.isLetterOrDigit(right)){
-                j--;
-                continue;
+                   j--;
+                   continue;
             }
+
             if(Character.toLowerCase(left)!=Character.toLowerCase(right)){
                 return false;
             }
@@ -21,5 +22,6 @@ class Solution {
             j--;
         }
         return true;
+
     }
 }
