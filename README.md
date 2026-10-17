@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0160-intersection-of-two-linked-lists) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0344-reverse-string) |
