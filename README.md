@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1095-find-in-mountain-array) |
 | [1406-stone-game-iii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1406-stone-game-iii) |
 | [1539-kth-missing-positive-number](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1539-kth-missing-positive-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1406-stone-game-iii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Two Pointers
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0509-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1406-stone-game-iii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3225-maximum-score-from-grid-operations) |
 ## Divide and Conquer
 |  |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0240-search-a-2d-matrix-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Game Theory
 |  |
 | ------- |
@@ -251,14 +255,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0128-longest-consecutive-sequence) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Stack
 |  |
 | ------- |
@@ -296,4 +303,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
