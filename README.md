@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0509-fibonacci-number) |
 ## Merge Sort
 |  |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
