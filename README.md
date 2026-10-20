@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0119-pascals-triangle-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0088-merge-sorted-array) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0217-contains-duplicate) |
@@ -349,4 +352,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
