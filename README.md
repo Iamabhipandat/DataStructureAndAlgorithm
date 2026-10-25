@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0977-squares-of-a-sorted-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1021-remove-outermost-parentheses) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0509-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1406-stone-game-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
