@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1095-find-in-mountain-array) |
+| [1254-number-of-closed-islands](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1254-number-of-closed-islands) |
 | [1406-stone-game-iii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1406-stone-game-iii) |
 | [1539-kth-missing-positive-number](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1539-kth-missing-positive-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1254-number-of-closed-islands) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3225-maximum-score-from-grid-operations) |
 ## Interactive
 |  |
@@ -232,11 +234,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
