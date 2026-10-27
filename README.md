@@ -242,12 +242,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0226-invert-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3310-remove-methods-from-project) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0226-invert-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0226-invert-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
