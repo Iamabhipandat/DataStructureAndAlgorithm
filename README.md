@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3225-maximum-score-from-grid-operations) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3665-twisted-mirror-path-count) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3886-sum-of-sortable-integers) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1406-stone-game-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3225-maximum-score-from-grid-operations) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Indexed Tree
 |  |
@@ -434,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
