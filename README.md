@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0543-diameter-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0543-diameter-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0543-diameter-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
@@ -457,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
