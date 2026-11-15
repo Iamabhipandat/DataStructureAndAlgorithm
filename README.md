@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1095-find-in-mountain-array) |
 | [1254-number-of-closed-islands](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1254-number-of-closed-islands) |
 | [1406-stone-game-iii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1539-kth-missing-positive-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0509-fibonacci-number) |
 | [1406-stone-game-iii](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3225-maximum-score-from-grid-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/0560-subarray-sum-equals-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3225-maximum-score-from-grid-operations) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Iamabhipandat/DataStructureAndAlgorithm/tree/master/3364-minimum-positive-sum-subarray) |
 ## Union-Find
